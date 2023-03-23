@@ -1,6 +1,6 @@
 # First steps with Svelte
 
-    MVP remove background with the API of Cloudinary
+MVP remove background with the API of Cloudinary
 
 # Svelte + TS + Vite
 
